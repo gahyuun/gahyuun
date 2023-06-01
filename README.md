@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=70&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=500&lines=Hi+Gahyun)](https://git.io/typing-svg)
+- 👋 Hi, I’m @gahyuun
+- 👀 I’m interested in JavaScript, React
+- 🌱 I’m currently learning TypeScript, Next.js
+- 📫 How to reach me pgh123166@naver.com
