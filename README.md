@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @gahyuun
-- 👀 I’m interested in JavaScript, React
-- 🌱 I’m currently learning TypeScript, Next.js
 - 📫 How to reach me pgh123166@naver.com
